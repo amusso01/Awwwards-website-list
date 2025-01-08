@@ -1,18 +1,20 @@
 # Awwwards-website-list
 A list of the curated website out there
 
- - [https://browsingmode.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFlwbWVNazVrMU5YR0JyUmZYN2JVSWFNcVJFUXxBQ3Jtc0ttdHJUaEhHSHUySEtscE5rOElEZl9WRW5GRnhnNlBIbDBxWHRCVUsxTElrRk53Zm9BcWFVUnkyZHV1bVhZR0Z2QTZTR2MybmtaUnl5ZTN5aEN2OTZzSVV1VkdIY09NaEtZSnZRT2FfZHhsdlpqN1lhUQ&q=https%3A%2F%2Fbrowsingmode.com%2F&v=wQA8vi9z5cU)
- - [https://klikkentheke.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUxUanpqZF9rWlRwQV82NXQ5WWdROUFDbVVYUXxBQ3Jtc0tsUGFNanpvVUJpQUE1RWhhOWJ2MGphTkN1VGdrY0RVS1pVcWVoTnZ6aVBVYXZJWi1ib1hrYXB5RjVmcG1vTmhRN0NpQlFJeGtNay10a1BlNlZOVldmUG1SQU53UE5WSHlBRkthdVRJcWhlQmNGcDZyaw&q=https%3A%2F%2Fklikkentheke.com%2F&v=wQA8vi9z5cU)
- - [https://godly.website/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1RZSi03ZnlVd1h5dXo4dmNGRHNtakhrUk1FQXxBQ3Jtc0trWmZ6cEFIbWxFLTNUTDA2QnNWdU9tdUlyY3l2NmlsSTE2NHpiMnlzbkJTVlk2MzhlLXZPcExtU2JFV2c5OGRRcnhJSFdEaUNwMW1NQlNZa2JrN0lDaDItMHYtZmFrNVI3WnVINnRJTmdzWXZhT0xNQQ&q=https%3A%2F%2Fgodly.website%2F&v=wQA8vi9z5cU)  
- - [https://www.siteinspire.com/websites/...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnp5Mm5KLWhIQWtOdlFFRy12UEo4XzNLdUpIQXxBQ3Jtc0tsYjh3a2pjRGVFV3RYQ3N1RF9vbGgwYmhKUXBSZnZFTWRudDRPOVkyWG9DYXc3cVhxeGlnLVhjMmI1Y0pmT0g4UjdseWNsWWc5WTI5ZVNicWZPcDE2bDNFVG9XZVEzUzBfVURCeGU5SzlFbUVwYVFzOA&q=https%3A%2F%2Fwww.siteinspire.com%2Fwebsites%2F11958-deeo-studio&v=wQA8vi9z5cU)  
- - [https://loadmo.re/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbE9xZW1YQ052ZmwwQ3lQb0RJcXppR0dRNlVPUXxBQ3Jtc0ttZTlfUDNJeVBXM1lJNVVQdFJ6Z3pZaFN6R3JRQThKel9kcDhjRkJibXdiTWFnWV9ubkR6M1MwZkdJRUQ2M1VOVVdGcXFWc29tLWR0ckl3ZUJ1NWZvUWxwdHpNcGF1cXpzMjA2c2RlT040N2IzeDM1dw&q=https%3A%2F%2Floadmo.re%2F&v=wQA8vi9z5cU)  
- - [https://www.hoverstat.es/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFBMbUVDZnFaeDMzR2lzRWU2SHc4eDNEdXRHQXxBQ3Jtc0tubkprX2VGcDRQWlg0T1otR3p5OUI5UGpuTkNCWDJGbXQ5VzNPMkx3WnBKcnZsV00yQWpTYkVtWUdmdGM3RG5valphTzNKVVVsam44NnB1WUNjRnhZYW93X0RnZS1GM0dEU054R3RBNUlEYUxRY2NaYw&q=https%3A%2F%2Fwww.hoverstat.es%2F&v=wQA8vi9z5cU)  
- - [https://ilovecreatives.com/internet-gems](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDI5TWxVSlRDbV90OEkyaEFMa0RvWnphTmx6UXxBQ3Jtc0trQlVpY0ZKWndNRXBOSEVtQTB4TlRJUEZNRm11QXptcGljZkZyVVBHN19aRjNaSEhPUTh4dExINlpGeFQwZFZqc3hTQml5X0xVWk9wdVdhcmZXTGh4S2U3VElJeThTVktsbzJTSXNHTU5JY1NCbkhIWQ&q=https%3A%2F%2Filovecreatives.com%2Finternet-gems&v=wQA8vi9z5cU)  
- - [https://www.landing.love/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZDMGlkbW5uTUFXTUxjemtfdWp4NU9faHdHUXxBQ3Jtc0tuRHNnTDRRTGN4aThYUXNrMDZyWWdGNkpwak0zaFp0REc3X2FqclZqRkt1UlVSbERvM3MxdEQ3WGRtM3dkVmN3NkVmYnp2YWl5d0pzVmNCalBNTzh2YW9TR3BfcUgyX0pWWi1YTWNoRXgtSHRNcWZNTQ&q=https%3A%2F%2Fwww.landing.love%2F&v=wQA8vi9z5cU)  
- - [https://land-book.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEw4aXVvQXlqYWZETm5RbVFqd3g2Rk15eTdzd3xBQ3Jtc0tuTXVkMjVBSmpGZWdhWnc2WTRBMHpoX1JxLXhHeVViUFhTSFNzLVd1MEJPMXdtMUNxblljUEZVWFlIWWMwRzJ4RmVSSHlQSDZNcjB3RldQd2JsWmx2clFQWWhZUkJidlRtV1I1Mld2bk1OQ1RmNDJENA&q=https%3A%2F%2Fland-book.com%2F&v=wQA8vi9z5cU)  
- - [https://webflow.com/made-in-webflow/p...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3lmSWNZUFdqQXhkbjZQc1U3NWU4SjB4NkNuZ3xBQ3Jtc0tsX1BtaGNNOE9fNUVab3huS0FuVkNhZmUtRzVyMDlKX0IxU09HNGhyQkRDN1RNWHJ5YnRnT0dLcWZDRHlpUmI3bldLOU9CcGZQSl90RWpIQjF2YkNSNTVWVENXbHBVYzRZdkVtXzVvVWZka2d4aU95VQ&q=https%3A%2F%2Fwebflow.com%2Fmade-in-webflow%2Fportfolio%2Fpopular&v=wQA8vi9z5cU)  [https://www.lapa.ninja/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmdCMkRmVWhjLXR6a0VZaFdla2RhMkVaODRUQXxBQ3Jtc0ttVU83eWZfaGtMUmdRZ0dzczAxZV9TUlZmd2lUQXRiUEN0dU54eS1zX0xxZWpOVWN1RW1zVmlxVFdQd0dZYnRDNDlfX2JJdG5WaE91aHExRE05Zlh6YkxUeGstUjhSZmVYMlJMQ2tzUC1XS3hQY1dGOA&q=https%3A%2F%2Fwww.lapa.ninja%2F&v=wQA8vi9z5cU)  
- - [https://onepagelove.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0VtTm5TNFFKNzNNblhpNzdvSi1faTFXc0d3d3xBQ3Jtc0tucjhCSmhXRWRhdTdWaVA0eGRXMU9WMlpsalFGZlAxR1l5VWYtdGMwRkFxLVFmYWl5THJQSGwzVHVDUTZNa19qbTBPRXdCRmRvX2pyRTdpTTBjeC1ycGZ2TS00MUF1UlhMRkV0Mzlsc3Q2dTZySHd6bw&q=https%3A%2F%2Fonepagelove.com%2F&v=wQA8vi9z5cU)  
- - [https://www.seesaw.website/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGUzUGVjaGRqUm1rR2UzOEMtRjY3THo0WVJHQXxBQ3Jtc0tsU0xkenJDUGMzZDBsV2lUTlNHMTF4YVJCSkhXYWxZMkl2dnRvbFVfeEsxV2YyMkt2VGlGdVdvSFE2Q0lVMXBNZkgzcjZ1alloZi1MOEJyZVBMdjQ4UG4teDlSdHYwSHBvbl8zZ3dIT1QxMHp5emhzQQ&q=https%3A%2F%2Fwww.seesaw.website%2F&v=wQA8vi9z5cU)  
- - [https://a-fresh.website/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk5KSFljaFhxOFV4Y21yc3huVW1VdGtFQVBad3xBQ3Jtc0tra3d1Z29DeEpqVVdfajNiSlpqOFd5bkJuTVh5d0FXX2ZqU1FHRUZhZFQ1M1IyY05Xd0FmamJqRVd4US1PUTNfYTRJb1hnZjlRVmhXUTlheFUwb3hxUEp2VFlQcE5HQ01EQ1dkWmFxQnViZDd3cEpIdw&q=https%3A%2F%2Fa-fresh.website%2F&v=wQA8vi9z5cU)  
- - [https://unboundbydefault.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbklMUEV2bTJhQncyRE5KMkxzMUF3TVZSU0xrZ3xBQ3Jtc0tucWdiQm1KWGdRcUdPN0Fla1E1S0RxdFQ5Vncxb0Exdk82OGU0MnVZaWFXY0xoLVlfUmM1SldGWEtIS2dNV2dHY21UZ3kyRWphQkk0aG8telpqdFdFNkpBeHZMWXN5WWEzQzBjTHpvd2lGYWl6c1JZNA&q=https%3A%2F%2Funboundbydefault.com%2F&v=wQA8vi9z5cU)
+ - https://browsingmode.com/
+ - https://klikkentheke.com/
+ - https://godly.website/
+ - https://www.siteinspire.com/websites/11958-deeo-studio
+ - https://loadmo.re/
+ - https://www.hoverstat.es/
+ - https://ilovecreatives.com/internet-gems
+ - https://www.landing.love/
+ - https://land-book.com/
+ - https://onepagelove.com/
+ - https://www.lapa.ninja/
+ - https://www.seesaw.website/
+ - https://a-fresh.website/
+ - https://unboundbydefault.com/
+ - https://www.awwwards.com/
+ - https://www.cssdesignawards.com/
 
